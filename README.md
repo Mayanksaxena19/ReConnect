@@ -24,7 +24,7 @@
 ![App Screenshot](https://github.com/Mayanksaxena19/ReConnect/blob/main/screenshots/IMG-20240803-WA0005.jpg?raw=true)
 
 ### Log In Screen
-![App Screenshot](https://github.com/Mayanksaxena19/ReConnect/blob/main/screenshots/IMG-20240803-WA0004.jpgg?raw=true)
+![App Screenshot](https://github.com/Mayanksaxena19/ReConnect/blob/main/screenshots/IMG-20240803-WA0004.jpg?raw=true)
 
 ### Chat Screen
 ![App Screenshot](https://github.com/Mayanksaxena19/ReConnect/blob/main/screenshots/IMG-20240803-WA0003.jpg?raw=true)
